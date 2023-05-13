@@ -2,3 +2,9 @@ Fonts needed:
 
 - EVE Alpha - https://damianvila.com
 - Source Sans Pro - https://fonts.google.com/specimen/Source+Sans+Pro
+
+
+
+The nameplates are sized to 280px width for top level directors and 260px width for second level directors
+
+
